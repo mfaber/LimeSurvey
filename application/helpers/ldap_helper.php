@@ -10,6 +10,7 @@
  * other free or open source software licenses.
  * See COPYRIGHT.php for copyright notices and details.
  *
+ * Das ist brandneu in der Base
  *	$Id$
  */
 // Security Checked: POST, GET, SESSION, REQUEST, returnGlobal, DB
